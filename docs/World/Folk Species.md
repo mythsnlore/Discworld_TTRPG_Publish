@@ -1,0 +1,15 @@
+- Humans
+- Dwarves
+- [Trolls](https://wiki.lspace.org/Trolls "Trolls")
+- [Vampires](https://wiki.lspace.org/Vampires "Vampires")
+- [Zombies](https://wiki.lspace.org/Zombies "Zombies")
+- [Banshees](https://wiki.lspace.org/Banshees "Banshees")
+- [Ghouls](https://wiki.lspace.org/Ghouls "Ghouls")
+- [Werewolves](https://wiki.lspace.org/Werewolves "Werewolves")
+- [Trolls](https://wiki.lspace.org/Trolls "Trolls")
+- [Bogeymen](https://wiki.lspace.org/Bogeymen "Bogeymen")
+- [Dryad](https://wiki.lspace.org/Dryad "Dryad")
+- [Elves](https://wiki.lspace.org/Elves "Elves")
+- [Golems](https://wiki.lspace.org/Golems "Golems")
+- [Imps](https://wiki.lspace.org/Imps "Imps")
+- [Pictsies and Nac Mac Feegle](https://wiki.lspace.org/Pictsies "Pictsies").

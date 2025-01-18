@@ -1,6 +1,7 @@
-# Obsidian Notes
+# Discworld TTRPG Homebrew
 
-Publish your public notes with MkDocs
+Let's test a few links [[Dimensions]] are cool places with [[Supernatural Entities]] in them.
+[[Supernatural Entities#Anthropomorphic Personifications|Death]] is a cool guy.
 
 ## Hello World!
 
