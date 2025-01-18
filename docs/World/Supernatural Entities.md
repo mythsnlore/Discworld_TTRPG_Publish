@@ -1,10 +1,11 @@
+# Supernatural Entities
 https://wiki.lspace.org/Category:Supernatural_entities
-# The Creators
+## The Creators
 Beings who had a hand in the formation of the Disc and its inhabitants.
 * Creator of the Disc
 * Creator of XXXX
 * Tak, creator of Dwarves
-# The Old High Ones
+## The Old High Ones
 8 powerful entities which preside over infinite universes, and by observing them, allow them to exist.
 * Azrael, Death of Universes
 * 7 more unknown entities ???
