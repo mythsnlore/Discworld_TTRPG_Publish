@@ -4,7 +4,7 @@ PartyHasMet: false
 Race:
 ---
 <% tp.file.title %>
-<% await tp.file.move("/World/Characters/" + tp.file.title) %>
+<% await tp.file.move("Discworld_TTRPG_Publish/docs/Characters/" + tp.file.title) %>
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewNPC");
