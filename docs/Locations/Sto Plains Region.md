@@ -1,5 +1,5 @@
 - Sto Plains
-	- Ankh-Morpork
+	- [[Ankh-Morpork]]
 	- Sto Lat
 	- Sto Helit
 	- Sto Kerrig

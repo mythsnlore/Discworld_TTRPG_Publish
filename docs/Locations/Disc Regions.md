@@ -1,3 +1,6 @@
+---
+#location 
+--- 
 [[Sto Plains Region]]
 Ramtops Region
 Turnwise Coast Region
