@@ -1,4 +1,3 @@
-### Discworld Aspects
 * Stories want to be told and will find vessels to fill so they can take shape.
 	* 1 in a million chances crop up 9 times out of 10
 * Words have power, especially written words.

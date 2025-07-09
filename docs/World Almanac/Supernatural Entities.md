@@ -73,3 +73,7 @@ The traditional torturers and jailers of the damned. Hierarchical and sometimes 
 - [Olk-Kalath the Soul-Sucker](https://wiki.lspace.org/Olk-Kalath_the_Soul-Sucker "Olk-Kalath the Soul-Sucker")
 - [Yob Soddoth](https://wiki.lspace.org/Yob_Soddoth "Yob Soddoth")
 - [Tshup Aklathep](https://wiki.lspace.org/Tshup_Aklathep "Tshup Aklathep"), the mutant star-toad with a million young.
+# The Auditors
+See [Auditors](https://wiki.lspace.org/Auditors_of_Reality)
+
+The eternal watchers of time and space. Responsible for the sensible operation of the universe, in other words, spoil sports.
